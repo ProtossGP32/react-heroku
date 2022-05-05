@@ -46,12 +46,12 @@ here name which created in heroku - "m3-react-heroku"
 
 ### `$ git commit -am "make it better"`
 
-$ git push heroku main
+### `$ git push heroku main`
 
 WAIT FOR A MOMENT WHILE A SCRIPT FINIHES
 
 YOU SHOULD SEE A LINK TO PROJECT
 
--5. when I updated my project, I run this command again to get update heroku link:
+-5. when I updated my project, I run this command again to get updated Heroku link:
 
 ### `$ git push heroku main`
