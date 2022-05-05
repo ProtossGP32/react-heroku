@@ -24,13 +24,13 @@ You may also see any lint errors in the console.
 
 # Short steps was made to deploy:
 
-1. ### `npx create-react-app react-heroku`
+-1. ### `npx create-react-app react-heroku`
 
-2. create new empty repo <react-heroku>
+-2. create new empty repo <react-heroku>
 
 and [add buildpack in heroku](https://github.com/mars/create-react-app-buildpack)
 
-3. run commands in terminal:
+-3. run commands in terminal:
 ### `$ heroku login`
 
 ### `$ heroku git:remote -a m3-react-heroku`
@@ -41,7 +41,7 @@ here name which created in heroku - "m3-react-heroku"
 
 ### `$ git push heroku react-heroku`
 
-4. 
+-4. 
 ### `$ git add .`
 
 ### `$ git commit -am "make it better"`
@@ -52,6 +52,6 @@ WAIT FOR A MOMENT WHILE A SCRIPT FINIHES
 
 YOU SHOULD SEE A LINK TO PROJECT
 
-5. when I updated my project, I run this command again to get update heroku link:
+-5. when I updated my project, I run this command again to get update heroku link:
 
 ### `$ git push heroku main`
