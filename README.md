@@ -24,7 +24,8 @@ You may also see any lint errors in the console.
 
 # Short steps was made to deploy:
 
--1. ### `npx create-react-app react-heroku`
+-1. CRA
+### `$ npx create-react-app react-heroku`
 
 -2. create new empty repo <react-heroku>
 
