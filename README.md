@@ -33,7 +33,7 @@ You may also see any lint errors in the console.
 -2. create new empty repo <react-heroku>
 and add [buildpack](https://github.com/mars/create-react-app-buildpack) in heroku settings
 
--3. run commands in terminal:
+-3. run commands in <VSCode> terminal:
 ### `$ heroku login`
 
 ### `$ heroku git:remote -a m3-react-heroku`
