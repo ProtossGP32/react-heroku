@@ -28,11 +28,11 @@ You may also see any lint errors in the console.
 # Short steps was made to deploy:
 
 -1. CRA
-### `$ npx create-react-app react-heroku`
+### `$ npx create-react-app react-heroku` 
 
 -2. create new empty repo <react-heroku>
 
-and [add buildpack in heroku](https://github.com/mars/create-react-app-buildpack)
+    and add buildpack in [heroku](https://github.com/mars/create-react-app-buildpack) settings
 
 -3. run commands in terminal:
 ### `$ heroku login`
