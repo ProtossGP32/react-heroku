@@ -31,8 +31,7 @@ You may also see any lint errors in the console.
 ### `$ npx create-react-app react-heroku` 
 
 -2. create new empty repo <react-heroku>
-
-    and add [http://localhost:3000](http://localhost:3000) [buildpack](https://github.com/mars/create-react-app-buildpack) in heroku settings
+and add [buildpack](https://github.com/mars/create-react-app-buildpack) in heroku settings
 
 -3. run commands in terminal:
 ### `$ heroku login`
